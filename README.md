@@ -21,7 +21,7 @@ Desenvolver um dashboard para análise financeira com foco em geração de insig
 - Excel / CSV
 
 ##  Preview do Dashboard
-(images/dashboard.png)
+![Dashboard Financeiro](images/dashboard.png)
 
 ##  Como abrir
 1. Baixe o arquivo `.pbix`
